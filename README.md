@@ -1,12 +1,16 @@
 # Queen's Gambit: N-Queens Visualiser
 
+Queen's Gambit is a visualisation tool for solving the N-Queens problem using a backtracking algorithm. The N-Queens problem involves placing N chess queens on an N×N chessboard so that no two queens threaten each other. This project allows you to interactively explore and visualize solutions to the N-Queens problem.
+
+
 ## Screenshots
 
-![](screenshots/Screenshot%2024-06-18%at%23.42.52.png)
-![](screenshots/Screenshot%2024-06-18%at%23.43.28.png)
+![Screenshot 1](screenshots/Screenshot%2024-06-18%at%23.42.52.png)
+*Caption for Screenshot 1*
 
+![Screenshot 2](screenshots/Screenshot%2024-06-18%at%23.43.28.png)
+*Caption for Screenshot 2*
 
-Queen's Gambit is a visualisation tool for solving the N-Queens problem using a backtracking algorithm. The N-Queens problem involves placing N chess queens on an N×N chessboard so that no two queens threaten each other. This project allows you to interactively explore and visualize solutions to the N-Queens problem.
 
 ## Features
 
@@ -19,7 +23,7 @@ Queen's Gambit is a visualisation tool for solving the N-Queens problem using a 
 
 Clone the repository and open `index.html` in your web browser.
 ```bash
-git clone https://github.com/your-username/queens-gambit.git
+https://github.com/Sagar180304/N-Queen-Visualiser.git
 cd queens-gambit
 ```
 
