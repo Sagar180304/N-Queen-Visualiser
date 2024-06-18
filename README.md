@@ -5,10 +5,12 @@ Queen's Gambit is a visualisation tool for solving the N-Queens problem using a 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/Screenshot%2024-06-18%at%23.42.52.png)
+<img width="1439" alt="Screenshot 2024-06-18 at 23 42 52" src="https://github.com/Sagar180304/N-Queen-Visualiser/assets/106906664/a90fad8d-8829-4882-82c2-f6e203590b12">
+
 *Caption for Screenshot 1*
 
-![Screenshot 2](screenshots/Screenshot%2024-06-18%at%23.43.28.png)
+<img width="1439" alt="Screenshot 2024-06-18 at 23 43 28" src="https://github.com/Sagar180304/N-Queen-Visualiser/assets/106906664/50510b34-7739-42f3-83dd-c2c3649d9e0d">
+
 *Caption for Screenshot 2*
 
 
