@@ -2,8 +2,8 @@
 
 ## Screenshots
 
-![](screen_shots/Screenshot%2024-06-18%at%23.42.52.png)
-![](screen_shots/Screenshot%2024-06-18%at%23.43.28.png)
+![](screenshots/Screenshot%2024-06-18%at%23.42.52.png)
+![](screenshots/Screenshot%2024-06-18%at%23.43.28.png)
 
 
 Queen's Gambit is a visualisation tool for solving the N-Queens problem using a backtracking algorithm. The N-Queens problem involves placing N chess queens on an N×N chessboard so that no two queens threaten each other. This project allows you to interactively explore and visualize solutions to the N-Queens problem.
